@@ -25,7 +25,7 @@ const axel = {
     },
 }
 ```
-[![Axel García github stats](https://github-readme-stats.vercel.app/api?username=agarciadarce)](https://github.com/anuraghazra/github-readme-stats)
+[![Axel García github stats](https://github-readme-stats.vercel.app/api?username=agarciadarce&show_icons=true&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 ⭐️ From [@ashrafkm](https://github.com/ashrafkm)
