@@ -28,5 +28,5 @@ const axel = {
 [![Axel García github stats](https://github-readme-stats.vercel.app/api?username=Axel19992017&show_icons=true&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Axel19992017&layout=compact&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+[![Axel García's wakatime stats this week ](https://github-readme-stats.vercel.app/api/wakatime?username=agarciadarce&show_icons=true&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
