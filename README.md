@@ -10,9 +10,9 @@
 ```javascript
 const axel = {
     pronouns: "He" | "Him",
-    askMeAbout: ["app dev", "web dev", "tech", "teacher"],
+    askMeAbout: ["app dev", "web dev", "tech", "teacher", "founder brevetech"],
     technologies:{
-        backEnd: ["php", "java", "python"],
+        backEnd: ["php (laravel)", "java (spring)", "python (django, flask)"],
         fronEnd: ["react", "nextjs", "bootstrap", "bulma", "materialize"],
         mobileApp: [],
         database: ["sqlServer","mySql", "postgres"],
