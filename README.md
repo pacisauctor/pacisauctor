@@ -1,6 +1,6 @@
 # I'm Axel García :D
 
-- My Linkedin [![](https://img.shields.io/badge/LinkedIn-agarciadarce-blue)](https://www.linkedin.com/in/axel-eleazar-garcía-darce-aab259143)
+- My Linkedin [![](https://img.shields.io/badge/LinkedIn-agarciadarce-blue)](https://www.linkedin.com/in/agarciadarce)
 - My email: [![](https://img.shields.io/badge/Mail-pacisauctor%40protonmail.com-red)](mailto:pacisauctor@protonmail.com)
 - My CV: [![](https://img.shields.io/badge/Web-MySiteWeb-green)](https://agarciadarce.codes)
 
