@@ -8,8 +8,7 @@ With more experience in backend than frontend in these 3 years, but with the aim
 
 * 🌍  I'm based in Managua
 * ✉️  You can contact me at [agarciadarce@gmail.com](mailto:agarciadarce@gmail.com)
-* 🚀  I'm currently working on [Tizo](http://www.tizo.app)
-* 🧠  I'm learning Spring Boot and Angular
+* 🧠  I'm learning Big Data
 * ⚡  My favorite language is Python
 
 ### Skills
